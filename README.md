@@ -1,4 +1,4 @@
-# UPI Apps Transaction Analysis (2022)
+# UPI Apps Transactions Analysis (2022)
 
 ## Overview
 This project analyzes UPI transactions for various banking apps during the year 2022. The analysis provides insights into monthly transaction trends, market share distribution among leading UPI apps, and the seasonal behavior of transaction values. The goal is to understand the UPI ecosystem's performance and identify key players in the digital payment landscape.
