@@ -1,4 +1,4 @@
-# 💳 UPI Apps Transaction Analysis (2022)
+# 💳 UPI Apps Transaction Analysis 
 
 ## 📖 Overview
 This project analyzes UPI transactions for various banking apps during the year 2022. The analysis provides insights into:
