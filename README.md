@@ -44,12 +44,17 @@ The analysis was conducted using PostgreSQL. Key queries included:
 ## 📌 Conclusion
 This analysis provides a detailed view of the UPI transaction landscape in 2022. By understanding transaction patterns and key players' market share, stakeholders can better strategize for growth and competition in the digital payments space.
 
-## 👤 Author
-**Karishma Jain** - Data Analyst passionate about extracting meaningful insights from data and contributing to data-driven decision-making.
+## ✍️ Wrap-Up
+You can find the full code and dataset on my GitHub. Feel free to reach out with any questions or comments.
+
+Check out the comprehensive project write-up on [Medium](https://medium.com/@jainkarishma0102/heres-a-comprehensive-project-write-up-for-your-medium-post-f06e5bdf58fc).
+
+Connect with me on LinkedIn to follow my journey and stay updated on future data-driven insights. Thanks for reading!
 
 ## 📬 Contact
-- [LinkedIn](https://www.linkedin.com/in/karishmajain124/)  
+- [LinkedIn](https://www.linkedin.com/in/karishmajain124/)
 - [GitHub](https://github.com/karishma122)
+
 
 
 
